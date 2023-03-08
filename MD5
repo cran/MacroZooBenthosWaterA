@@ -1,0 +1,8 @@
+39165e69185018fda457c923993e203b *DESCRIPTION
+e3aebadf8305ad2faf2bf05a00813741 *NAMESPACE
+ef5935989f23d0a140f7798c65afd7b4 *R/hello.R
+0c61492f3377a9ecff2a9ee73097311e *man/calculate_ASPT.Rd
+05723aac18895754c77e36950121ba15 *man/calculate_BMWP.Rd
+d5735b33f41220cbab9db72a8d1ebdc4 *man/calculate_EPT.Rd
+a331aaf676725cbdcf54b135839e8ca0 *man/calculate_FBI.Rd
+fdfa2c8e71f0f1f5b627f59cc1a5e87a *man/calculate_SWRC.Rd
